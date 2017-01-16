@@ -1,6 +1,6 @@
 # A set of icons designed to allow easy differentiation of content item types within discovery services.
 
-These icons were developed as a result of user experience research conducted on the Ex Libris Primo discovery service.
+These icons were developed as a result of user experience research conducted on the Ex Libris Primo discovery service, in collaboration with the University of Sussex.
 
 More information on the research is available here:
 - http://onlinelibrary.wiley.com/doi/10.1002/leap.1075/full
