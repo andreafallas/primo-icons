@@ -8,9 +8,9 @@ More information on the research is available here:
 
 ## What’s included
 
-The set includes 28 rectangular icons bearing the letters A-Z and the symbols @ and &.
+The set includes 28 icons bearing the letters A-Z and the symbols @ and &.
 
-The icons are provided in a range of colours, and are available both PNG and SVG formats.
+Icons are provided in a range of colours, and are available in both PNG and SVG formats.
 
 Three sizes of PNG are included (60x80, 120x160 and 180x240 pixels).
 
