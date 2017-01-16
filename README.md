@@ -21,7 +21,7 @@ Three sizes of PNG are included (60x80, 120x160 and 180x240 pixels).
 
 ## Acknowledgements
 
-Thanks to Christian Robertson for the font Robot Slab, licensed under the Apache 2.0 License.
+Thanks to Christian Robertson for the font Roboto Slab, licensed under the Apache 2.0 License.
 
 ## License
 
