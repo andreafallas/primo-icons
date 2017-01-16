@@ -1,6 +1,8 @@
 # A set of icons designed to allow easy differentiation of content item types within discovery services.
 
-These icons were developed as a result of user experience research conducted on the Ex Libris Primo discovery service, in collaboration with the University of Sussex.
+If you are a librarian, information specialist, or interested in optimising discovery services for your users then these icons are for you.
+
+These icons were developed as a result of user experience research conducted on the Ex Libris Primo discovery service, in collaboration with the University of Sussex Library.
 
 More information on the research is available here:
 - http://onlinelibrary.wiley.com/doi/10.1002/leap.1075/full
@@ -13,6 +15,8 @@ The set includes 28 icons bearing the letters A-Z and the symbols @ and &.
 Icons are provided in a range of colours, and are available in both PNG and SVG formats.
 
 Three sizes of PNG are included (60x80, 120x160 and 180x240 pixels).
+
+*For an overview of the icons and colours, see https://github.com/andreafallas/primo-icons/blob/master/overview.png*
 
 ## Suggested use
 
