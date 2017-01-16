@@ -1,6 +1,4 @@
-# primo-icons
-
-*A set of icons designed to allow easy differentiation of content item types within discovery services.*
+# A set of icons designed to allow easy differentiation of content item types within discovery services.
 
 These icons were developed as a result of user experience research conducted on the Ex Libris Primo discovery service.
 
@@ -12,7 +10,9 @@ More information on the research is available here:
 
 The set includes 28 rectangular icons bearing the letters A-Z and the symbols @ and &.
 
-The icons are provided in a range of colours, and are available both PNG and SVG formats. Three sizes of PNG are included (60x80, 120x160 and 180x240 pixels).
+The icons are provided in a range of colours, and are available both PNG and SVG formats.
+
+Three sizes of PNG are included (60x80, 120x160 and 180x240 pixels).
 
 ## Suggested use
 
